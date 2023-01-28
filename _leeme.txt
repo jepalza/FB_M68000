@@ -1,0 +1,4 @@
+esqueleto para un emulador de Motorola 68000 escrito completamente en FreeBASIC.
+Incompleto, pero funcional (emula un Basic para 68000).
+
+Basado en varias fuentes publicadas por la red, como el emulador MAME o el FAME
